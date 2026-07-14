@@ -8,7 +8,7 @@
 
 ## About
 
-Student at IIIT and software developer working across full-stack web development, AI/ML pipelines, and systems programming. Ships independent projects across a broad range of technologies, with a focus on polished, production-ready applications. Competitive programmer with 480+ LeetCode problems solved.
+Student at IIIT and software developer working across full-stack web development, AI/ML pipelines, and systems programming. Ships independent projects across a broad range of technologies, with a focus on polished, production-ready applications. Competitive programmer with 550+ LeetCode problems solved.
 
 ---
 
