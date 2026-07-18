@@ -30,7 +30,7 @@ Student at IIIT and software developer working across full-stack web development
 - **Full-stack web apps** — clone/e-commerce style projects, dashboards, and production-style web tools
 - **AI/ML pipelines** — prediction and recommendation systems (healthcare, agriculture), RAG pipelines (LangChain, AstraDB, Groq), multi-agent research apps
 - **Systems programming** — custom C++ memory allocator internals, OS/concurrency concepts (deadlock prevention, Coffman conditions)
-- **Competitive programming** — 480+ problems solved on LeetCode
+- **Competitive programming** — 550+ problems solved on LeetCode
 
 ---
 
