@@ -98,10 +98,6 @@ Consistent problem-solving practice — 550+ problems solved on LeetCode.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh049&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh049&layout=compact&theme=default" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh049&theme=default" height="165"/>
