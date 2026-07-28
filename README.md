@@ -65,7 +65,7 @@ Consistent problem-solving practice — 550+ problems solved on LeetCode.
 | [Chatbot-using-Python](https://github.com/ansh049/Chatbot-using-Python) | Python-based chatbot | Python |
 | [Crop-recommendation-System](https://github.com/ansh049/Crop-recommendation-System) | Machine learning crop recommender | HTML |
 
-> Full list of 31 repos: [github.com/ansh049?tab=repositories](https://github.com/ansh049?tab=repositories)
+> Full list of 42 repos: [github.com/ansh049?tab=repositories](https://github.com/ansh049?tab=repositories)
 
 ---
 
