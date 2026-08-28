@@ -15,7 +15,7 @@ ansh = {
     "college" : "IIIT Nagpur",
     "role"    : "Full-Stack Developer | AI/ML Engineer",
     "stack"   : ["Python", "C++", "Java", "JavaScript", "React.js", "Node.js", "FastAPI", "MongoDB", "Docker"],
-    "dsa"     : "550+ problems solved on LeetCode",
+    "dsa"     : "610+ problems solved on LeetCode",
     "focus"   : ["Full-Stack Web Development", "AI/ML Pipelines", "Systems Programming"],
     "exploring": ["RAG pipelines", "multi-agent systems", "computer vision"],
     "repos"   : "42 public repositories",
@@ -95,7 +95,7 @@ Prediction and recommendation systems (healthcare, agriculture), Retrieval-Augme
 Custom C++ memory allocator internals, OS & concurrency concepts including deadlock prevention and the Coffman conditions.
 
 **Competitive Programming**
-Consistent problem-solving practice — 550+ problems solved on LeetCode.
+Consistent problem-solving practice — 610+ problems solved on LeetCode.
 
 ---
 
